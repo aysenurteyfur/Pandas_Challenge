@@ -1,0 +1,10 @@
+PyCitySchool Analysis
+
+- We can say that students in all grades had almost similar academic performance across all categories. 
+- Average math and reading scores stay consistent across grade level when grouped by school.
+- The top 5 schools are all charter schools while the bottom 5 all district schools.
+- Small-sized (less than 1000 students) and medium-sized (1000 to 2000 students) schools outperformed the large-sized schools (2000 to 5000 students) in terms of passing scores.
+- The schools with the low spending ranges (less than $585 per student) had better average math and reading scores as well as better passing rates for students overall and in both math and reading.
+
+
+ 
